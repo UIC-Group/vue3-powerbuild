@@ -19,5 +19,6 @@ module.exports = {
   rules: {
     "no-console": "warn",
     "@typescript-eslint/explicit-module-boundary-types": "off",
+    "vue/multi-word-component-names": "off",
   },
 };
